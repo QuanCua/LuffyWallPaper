@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_wallpapers"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/wallparpers" />
+        <item
+            android:id="@+id/nav_favourites"
+            android:icon="@drawable/ic_menu_heart"
+            android:title="@string/favourites" />
+    </group>
+
+    <item android:title="@string/about">
+        <menu>
+            <item
+                android:id="@+id/nav_rateApp"
+                android:icon="@drawable/ic_menu_star"
+                android:title="@string/rate_this_app" />
+            <item
+                android:id="@+id/nav_discover"
+                android:icon="@drawable/ic_menu_phone"
+                android:title="@string/discover_more_apps" />
+        </menu>
+    </item>
+
+</menu>

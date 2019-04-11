@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cool Luffy Wallpaper HD</string>
+
+
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+
+    <string name="wallparpers">Fondos de pantalla</string>
+    <string name="favourites">Favoritos</string>
+    <string name="share">Compartir</string>
+    <string name="download">Descargar</string>
+    <string name="set_as_wallpaper">Establecer como fondo de pantalla</string>
+
+    <string name="about">Acerca de</string>
+
+    <string name="rate_this_app">Califica esta aplicación</string>
+    <string name="discover_more_apps">Descubre más aplicaciones</string>
+
+    <string name="text_favourites">Agregado a tus favoritos</string>
+    <string name="text_download">¡La descarga es un éxito!</string>
+    <string name="text_download_fail">No se puede crear un directorio para descargar la imagen.</string>
+    <string name="text_set_as_wallpaper">¡Tu fondo de pantalla ha sido actualizado!</string>
+
+    <string name="text_dialog">Su dispositivo no está conectado a internet. Por favor, compruebe su conexión a Internet y vuelva a intentarlo.</string>
+
+
+</resources>
